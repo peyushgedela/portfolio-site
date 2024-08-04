@@ -15,7 +15,7 @@ Welcome to my personal portfolio website repository! This project showcases my s
 
 ## Demo
 
-You can view the live demo of the website here: [Live Demo]([https://](https://peyushgedela.vercel.app/))
+You can view the live demo of the website here: [Live Demo](https://peyushgedela.vercel.app/)
 
 ## Features
 
